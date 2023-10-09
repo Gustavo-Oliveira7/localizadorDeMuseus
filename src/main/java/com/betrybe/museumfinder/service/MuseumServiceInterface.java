@@ -9,7 +9,7 @@ import java.util.Optional;
  */
 public interface MuseumServiceInterface {
 
-  Optional<Museum> getClosestMuseum(Coordinate coordinate, Double maxDistance);
+  Museum getClosestMuseum(Coordinate coordinate, Double maxDistance);
 
   Museum createMuseum(Museum museum);
 
