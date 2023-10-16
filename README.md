@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+### Localizador de Museus ###
+O Localizador de Museus é uma aplicação que tem como principal objetivo facilitar a busca por museus com base na localização do usuário. Com esta ferramenta, os entusiastas de museus e turistas podem encontrar facilmente museus próximos a eles, tornando a exploração cultural mais acessível e conveniente.
